@@ -17,3 +17,8 @@ Database lab1, FAM
 
 Опис структури БД “Бібліотека”
 
+![Tables](images/t.png)
+
+Структура БД “Бібліотека”
+
+![Struct](images/123(3).png)
