@@ -17,7 +17,7 @@ Database lab1, FAM
 
 <h4 align="center">Концептуальна модель учбової предметної області "Бібліотека"</h4>
 
-![er_scheme](images/er_scheme.png)
+<img align="center" src=images/er_scheme.png></img>
 
 <h4 align="center">Опис структури БД “Бібліотека”</h4>
 
