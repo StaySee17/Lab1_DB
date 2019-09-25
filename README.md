@@ -16,16 +16,18 @@ Database lab1, FAM
 При проектуванні Бібліотеки можна виділити такі сутності: книжка, читач, автор, перепустка, телефон. У однієї книжки може бути більше ніж один автор і навпаки (зв’язок багато до багатьох). У кожного читача може бути багато книжок (зв’язок багато до багатьох), одна перепустка (зв’язок один до одного) та багато телефонів (зв’язок багато до одного).
 
 <h4 align="center">Концептуальна модель учбової предметної області "Бібліотека"</h4>
-
-<img align="center" src=images/er_scheme.png></img>
-
+<p align="center">
+<img src=images/er_scheme.png/>
+</p>
 <h4 align="center">Опис структури БД “Бібліотека”</h4>
 
-![Tables](images/table_info.png)
-
+<p align="center">
+<img src=images/table_info.png/>
+</p>
 <h4 align="center">Структура БД “Бібліотека”</h4>
-
-![Struct](images/tables.png)
+<p align="center">
+<img src=images/tables.png/>
+</p>
 
 <h4 align="center">Фотографії таблиць з БД</h4>
 
